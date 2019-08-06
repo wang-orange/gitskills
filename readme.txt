@@ -1,6 +1,7 @@
-1111111111111111
+
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+222222222222222222
 ***************************************
 
 1.初始化一个Git仓库，使用git init命令。
