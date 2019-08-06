@@ -1,4 +1,4 @@
-
+Creating a new branch is quick & simple.
 ***************************************
 
 1.初始化一个Git仓库，使用git init命令。
