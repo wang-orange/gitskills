@@ -1,4 +1,4 @@
-aaaaaaa
+Git is a free software ...
 ***************************************
 
 1.初始化一个Git仓库，使用git init命令。
